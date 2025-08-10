@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrashwani&label=Profile%20views&color=0e75b6&style=flat" alt="mrashwani" /> </p>
 
-- 👨‍💻 I’m currently learning **java**
+- 👨‍💻 I’m currently learning **Python**
 
 - 💬 Ask me about **C language, HTML, CSS and JS**
 
